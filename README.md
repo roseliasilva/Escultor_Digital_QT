@@ -18,9 +18,10 @@ A foto abaixo demonstra a nossa interface do Paint 3D.
 
 A criação desta interface foi feita baseando-se nos signals/slots e suas devidas conexões entre os componentes. Enquanto sua parte gráfica foi projetado para funcionar como uma matriz, assim, quando o usuário decide desenhar o seu click em um quadrado da área gráfica, referente a uma posição x, y e z da matriz, é preenchido por uma cor e seu formato selecionado.
 
-<img width="500" alt="Interface do Paint 3D no Qt Creator" title="Imagem 1: Interface do Paint 3D no Qt Creator" src="interface.png" align="left" />
+<img width="400" alt="Interface do Paint 3D no Qt Creator" title="Imagem 1: Interface do Paint 3D no Qt Creator" src="interface.png" align="left" />
 
-<img width="500" alt="Desenhando na interface do Paint 3D no Qt Creator" title="Imagem 2: Desenhando na interface do Paint 3D no Qt Creator" src="desenho_teste.png" align="right" />
+<img width="400" alt="Desenhando na interface do Paint 3D no Qt Creator" title="Imagem 2: Desenhando na interface do Paint 3D no Qt Creator" src="desenho_teste.png" align="right" />
+
 
 ## Desenvolvedoras
 
